@@ -3,3 +3,6 @@ Nextjs project that integrated with framer-motion an animation library to add tr
 ## Instruction
 - npm install
 - npm run dev
+
+## Note
+- deal with exit animation https://stackoverflow.com/a/77715364
